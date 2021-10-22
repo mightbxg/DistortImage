@@ -1,0 +1,4 @@
+# IDE
+/build*/
+/.vscode/
+*.user*
